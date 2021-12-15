@@ -10,7 +10,7 @@ Created a Management system using the language c++.Where you can book hotel room
 
 
 
-## Screenshots
+## Outputs:
 
 ![App Screenshot](https://raw.githubusercontent.com/dheero/Hotel_Management_System/main/hotel%20management%20output%20images/Quantity%20input.png)
 
