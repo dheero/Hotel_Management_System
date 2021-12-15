@@ -141,31 +141,31 @@ menu:
         cout << "\n-------------------------------------------------------------";
 
         cout << "\n Number of Pastas we had: " << Qpasta;
-        cout << "\n Number of Pastas gave for rent: " << Spasta;
+        cout << "\n Number of ordered Pastas: " << Spasta;
         cout << "\n Remaining Pastas: " << Qpasta - Spasta;
         cout << "\n Total Pastas collection for the day: " << Total_pasta;
         cout << "\n-------------------------------------------------------------";
 
         cout << "\n Remaining Burgers: " << Qburger - Sburger;
-        cout << "\n Number of Burgers gave for rent: " << Sburger;
+        cout << "\n Number of ordered Burgers: " << Sburger;
         cout << "\n Number of Burgers we had: " << Qburger;
         cout << "\n Total Burger collection for the day: " << Total_burger;
         cout << "\n-------------------------------------------------------------";
 
         cout << "\n Number of Noodles we had: " << Qnoodles;
-        cout << "\n Number of Noodles gave for rent: " << Snoodles;
+        cout << "\n Number of ordered Noodles: " << Snoodles;
         cout << "\n Remaining Noodles: " << Qnoodles - Snoodles;
         cout << "\n Total Noodles collection for the day: " << Total_noodles;
         cout << "\n-------------------------------------------------------------";
 
         cout << "\n Number of Shakes we had: " << Qshake;
-        cout << "\n Number of Shakes gave for rent: " << Sshake;
+        cout << "\n Number of ordered Shakes: " << Sshake;
         cout << "\n Remaining Shakes: " << Qshake - Sshake;
         cout << "\n Total Shakes collection for the day: " << Total_shake;
         cout << "\n-------------------------------------------------------------";
 
         cout << "\n Number of Chicken-roll we had: " << Qchicken;
-        cout << "\n Number of Chicken-roll gave for rent: " << Schicken;
+        cout << "\n Number of ordered Chicken-roll: " << Schicken;
         cout << "\n Remaining Chicken-roll: " << Qchicken - Schicken;
         cout << "\n Total Chicken-roll collection for the day: " << Total_chicken;
         cout << "\n=============================================";
